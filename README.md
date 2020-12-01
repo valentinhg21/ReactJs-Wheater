@@ -4,7 +4,7 @@ This is a project where you can find the weather of your city.
 I used the API from https://openweathermap.org/api You have to register to get the key and connect to the api
 
 Preview
-https://tender-mirzakhani-b4807f.netlify.app/
+https://wheaterjs.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
